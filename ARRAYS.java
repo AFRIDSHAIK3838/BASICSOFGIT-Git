@@ -25,12 +25,13 @@ public class ARRAYS {
       {
         System.out.println(B[i]);
       }
-      int X;
+      /*HII HELLO GOOD MOIRNING  */
+      int Y;
       Scanner sc=new Scanner(System.in);
-       X=sc.nextInt();
+       Y=sc.nextInt();
      for(int i=0;i<4;i++)
      {
-        if(A[i]==X){
+        if(A[i]==Y){
             System.out.println("Here is The Element"+i);
         }
      }
